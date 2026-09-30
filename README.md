@@ -38,7 +38,7 @@ The dashboard includes:
 The repository is intended to include the final exported PDF at:
 
 ```text
-Dashboard/Executive_Summary.pdf
+1-project-databricks-executive-summary.pdf
 ```
 
 The PDF lets viewers review the dashboard layout without requiring Power BI. No source dataset, credentials, or internal project materials are included in this repository.
